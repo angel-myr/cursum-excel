@@ -18,4 +18,13 @@
     ✅ Propiedades ADDRERS, ROW, COLUMN y SPLIT para ubicaciones
     ✅ BuiltinDocumentProperties para extraer información del libro 
     ✅ Abrir y Cerrar Libros automáticamente
+
 ![alt text](imgs/image03.png)
+
+### Caja de Herramientas del Programador - Parte 1
+    ✅ Variables locales, a nivel de módulo y a nivel de proyecto
+    ✅ Ciclos DO LOOP, FOR NEXT y WHILE WEND
+    ✅ Pruebas lógicas IF THEN ELSE y SELECT CASE
+
+![alt text](imgs/image04.png)
+
