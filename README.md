@@ -15,7 +15,7 @@
 ![alt text](imgs/image02.png)
 
 ### Programación Básica en VBA de Excel - Parte 2
-    ✅ Propiedades ADDRERS, ROW, COLUMN y SPLIT para ubicaciones
+    ✅ Propiedades ADDRESS, ROW, COLUMN y SPLIT para ubicaciones
     ✅ BuiltinDocumentProperties para extraer información del libro 
     ✅ Abrir y Cerrar Libros automáticamente
 
@@ -28,3 +28,9 @@
 
 ![alt text](imgs/image04.png)
 
+### Caja de Herramientas del Programador - Parte 2
+    ✅ Uso de Fórmulas desde VBA
+    ✅ Cajas de texto INPUTBOX y MSGBOX
+    ✅ Arreglos unidimensional, bidimensionales, estáticos y dinámicos
+
+![alt text](imgs/image05.png)
