@@ -58,3 +58,10 @@
     ✅ Agrupar Campos de Fecha y Hora
 
 ![alt text](imgs/cap03.png)
+
+### Tablas Dinámicas - Trabajar con Múltiples Orígenes
+    ✅ Conexión de 2 o más Tablas
+    ✅ Importar Datos de Otro Libro y de una BD de Access
+
+![alt text](imgs/cap04.png)
+
