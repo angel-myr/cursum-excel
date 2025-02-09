@@ -34,3 +34,9 @@
     ✅ Arreglos unidimensional, bidimensionales, estáticos y dinámicos
 
 ![alt text](imgs/image05.png)
+
+### Tabla Dinámicas - Introducción
+    ✅ Crear Tabla de Valores
+    ✅ Área de Valores, Filas, Columnas y Filtros
+
+![alt text](imgs/cap01.png)
