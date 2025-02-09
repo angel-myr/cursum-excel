@@ -52,3 +52,9 @@
     ✅ Campos calculados y Subtotales
 
 ![alt text](imgs/cap02.png)
+
+### Tablas Dinámicas - Agrupar Campos
+    ✅ Agrupar Campos de Texto y Campos Numéricos
+    ✅ Agrupar Campos de Fecha y Hora
+
+![alt text](imgs/cap03.png)
