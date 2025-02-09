@@ -1,3 +1,5 @@
+## EXCEL AVANZADO
+
 ### Gestión de Macros
     ✅ Introducción al Panel de VBA
     ✅ Grabación, Guardado, Reubicación y Depuración de Macros
@@ -35,8 +37,18 @@
 
 ![alt text](imgs/image05.png)
 
-### Tabla Dinámicas - Introducción
+
+## EXCEL - TABLAS DINÁMICAS
+
+### Tablas Dinámicas - Introducción
     ✅ Crear Tabla de Valores
     ✅ Área de Valores, Filas, Columnas y Filtros
 
 ![alt text](imgs/cap01.png)
+
+### Tablas Dinámicas - Herramientas Útiles
+    ✅ Segmentación de Datos y Escala de Tiempo
+    ✅ Actualizar Tablas y Gráficos automáticamente
+    ✅ Campos calculados y Subtotales
+
+![alt text](imgs/cap02.png)
