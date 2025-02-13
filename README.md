@@ -65,3 +65,9 @@
 
 ![alt text](imgs/cap04.png)
 
+### Tablas Dinámicas - Formatos y Opciones
+    ✅ Mostrar Registros sin Datos y en Celdas Vacías
+    ✅ Formato de Celdas
+    ✅ Diseño de Informe
+
+![alt text](imgs/cap05.png)
