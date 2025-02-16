@@ -71,3 +71,11 @@
     ✅ Diseño de Informe
 
 ![alt text](imgs/cap05.png)
+
+### Tablas Dinámicas - Crea un Tablero (Dashboard)
+    ✅ Uso de Gráfico Lineal, Mapa, Anillos, Cascadas y Barras Horizontales
+    ✅ Crear Gráfico de Velocímetro
+    ✅ Diseñar Dashboard (Fondo, Cuadrículas, Títulos e Íconos)
+    ✅ Personalizar Segmentadores
+
+![alt text](imgs/cap06.png)
